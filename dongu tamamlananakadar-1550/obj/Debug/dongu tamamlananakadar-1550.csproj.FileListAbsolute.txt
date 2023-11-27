@@ -1,0 +1,10 @@
+C:\Users\ben\source\repos\dongu tamamlananakadar-1550\dongu tamamlananakadar-1550\bin\Debug\dongu tamamlananakadar-1550.exe.config
+C:\Users\ben\source\repos\dongu tamamlananakadar-1550\dongu tamamlananakadar-1550\bin\Debug\dongu tamamlananakadar-1550.exe
+C:\Users\ben\source\repos\dongu tamamlananakadar-1550\dongu tamamlananakadar-1550\bin\Debug\dongu tamamlananakadar-1550.pdb
+C:\Users\ben\source\repos\dongu tamamlananakadar-1550\dongu tamamlananakadar-1550\obj\Debug\dongu tamamlananakadar-1550.csproj.AssemblyReference.cache
+C:\Users\ben\source\repos\dongu tamamlananakadar-1550\dongu tamamlananakadar-1550\obj\Debug\dongu_tamamlananakadar_1550.Form1.resources
+C:\Users\ben\source\repos\dongu tamamlananakadar-1550\dongu tamamlananakadar-1550\obj\Debug\dongu_tamamlananakadar_1550.Properties.Resources.resources
+C:\Users\ben\source\repos\dongu tamamlananakadar-1550\dongu tamamlananakadar-1550\obj\Debug\dongu tamamlananakadar-1550.csproj.GenerateResource.cache
+C:\Users\ben\source\repos\dongu tamamlananakadar-1550\dongu tamamlananakadar-1550\obj\Debug\dongu tamamlananakadar-1550.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\dongu tamamlananakadar-1550\dongu tamamlananakadar-1550\obj\Debug\dongu tamamlananakadar-1550.exe
+C:\Users\ben\source\repos\dongu tamamlananakadar-1550\dongu tamamlananakadar-1550\obj\Debug\dongu tamamlananakadar-1550.pdb
